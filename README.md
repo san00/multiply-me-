@@ -23,5 +23,7 @@
 - [Early learning centre - card game](http://www.elc.co.uk/Match-the-Numbers/142464,default,pd.html)
 - [Site featuring mulitplication games & resources](http://www.multiplication.com/play/cool/math/games/road_rally_multi_player_multiplication/1666)
 
-**Site Mock Up**
-[view site mock up's here](https://github.com/san00/multiply-me-/issues/1)
+
+
+#**Site Mock Up**
+[Click here to view site mock up'](https://github.com/san00/multiply-me-/issues/1)
