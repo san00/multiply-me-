@@ -1,4 +1,4 @@
-# Multiply-me-
+# Multiply-me-Mock-up's
 # Multiply the numbers web project - an interactive, educational site to help kids learn multiplication in a fun and easy way.
 
 **Requirements**
